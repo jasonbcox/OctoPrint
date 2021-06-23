@@ -1,3 +1,7 @@
+# Setup resources:
+* https://help.prusa3d.com/en/article/octoprint-configuration-and-install_2182
+* https://docs.octoprint.org/en/master/development/environment.html
+
 <p align="center"><img src="https://octoprint.org/assets/img/logo.png" alt="OctoPrint's logo" /></p>
 
 <h1 align="center">OctoPrint</h1>
